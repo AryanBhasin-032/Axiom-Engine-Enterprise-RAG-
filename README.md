@@ -10,8 +10,8 @@ Large Language Models (LLMs) are powerful tools for knowledge management, but st
 
 ## 🏗 System Architecture
 
-*(Paste your architecture photo here)*
-![Axiom Engine Architecture Layout](./assets/architecture-diagram.png)
+<img width="626" height="1046" alt="axiom arch" src="https://github.com/user-attachments/assets/8a315760-a1e5-48df-84b2-0d77c5d23755" />
+
 
 To handle heavy machine learning inference efficiently, the system is decoupled into a strict three-tier architecture:
 
